@@ -1,0 +1,27 @@
+
+• Montant : montant de la transaction
+• CodeDecision -> pré processus (echantillon dessus ?)
+• VérifianceCPT1 
+• VérifianceCPT2 
+• VérifianceCPT3 
+• D2CB ??
+• ScoringFP1 
+• ScoringFP2 
+• ScoringFP3 
+• TauxImpNb_RB 
+• TauxImpNB_CPM
+• EcartNumCheq
+• DiffDateTr1 
+• DiffDateTr2
+• DiffDateTr3
+• CA3TRetMtt ???
+• CA3TR 
+
+
+
+NE pas prendre:
+-heure
+-ID
+-ZINBIN
+-date
+-Code deci
